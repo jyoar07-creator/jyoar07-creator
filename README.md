@@ -51,8 +51,10 @@ I am applying my skills to build systems that integrate hardware and software.
 
 ---
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jyoar07-creator&show_icons=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoar07-creator&layout=compact)
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=jyoar07-creator&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoar07-creator&layout=compact&theme=radical)
 
 
 ---
