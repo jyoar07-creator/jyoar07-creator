@@ -52,9 +52,18 @@ I am applying my skills to build systems that integrate hardware and software.
 ---
 ### 📊 GitHub Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=jyoar07-creator&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyoar07-creator&show_icons=true&theme=radical&hide_rank=true&t=1" alt="Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoar07-creator&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoar07-creator&layout=compact&theme=radical&t=1" alt="Languages" />
+</p>
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jyoar07-creator&theme=radical&no-frame=true" alt="Trophies" />
+</p>
 
 
 ---
