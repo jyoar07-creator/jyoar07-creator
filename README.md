@@ -50,13 +50,10 @@ I am applying my skills to build systems that integrate hardware and software.
 | **Smart Home Logic** | Designed digital logic circuits for automation. | Circuit Analysis, Logic Gates |
 
 ---
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=jyoar07-creator&show_icons=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoar07-creator&layout=compact)
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyoar07-creator&show_icons=true&theme=tokyonight&count_private=true" alt="My GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoar07-creator&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</div>
 
 ---
 
